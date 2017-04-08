@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f84ac1881af9578e4b172d6a34624892763edd1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_a26f8fdd60c132685f4659f8a05e2c717be87efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37d60ea5380abb955954fbc80598727ac292debf">
+        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6f7bb9e344234eab7d92420bb26ab702e3b2572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.5.0_dc7d223f26008cc18ba799f4ddaa697b0b148931\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.5.0\58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa\okhttp-urlconnection-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa">
+        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.5.0_9a7a68d0f5e11f2c2a8f5bda9eee80864e7b47af\classes.dex" />
+    </item>
+
+</items>
