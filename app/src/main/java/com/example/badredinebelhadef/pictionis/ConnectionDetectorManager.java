@@ -1,4 +1,4 @@
-package com.example.badredinebelhadef.etnaapp;
+package com.example.badredinebelhadef.pictionis;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
