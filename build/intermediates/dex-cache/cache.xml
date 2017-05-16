@@ -2,49 +2,292 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/72b836c2eb444324058b5551121953aabc9ab3d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_719fa00a2040c9331b324fc89afb8ab47e253b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_9331ff9b4f1daae154f31a42e0c16d737e078610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/3139035cf07bdf42b3871b10dc4d233b1302e65e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_f060653733bb35b067968ad6f6185a96896b2324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.5.0/58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa/okhttp-urlconnection-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.5.0_90eca0ace681a49516490df009941cf09c9f4a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/f21fffa85fa8d5a58d389bfaf29825b2241781ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_ed520ac2f42cb1d2b81058308b716bf6e71dc799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/6edac6b3718288b1a17ca5daec48de435083f365/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_6e559e7fd109b7b4af7126d78201480b99b31260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/1377a8b82b02eea7ec138e9e9d9deeb4e1b13b33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_07df84fdebbe9d637ef0557c556ac7a2c47f1a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/504c6adfb515f8864f47c99c987e46ee6c6d3027/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_8a77ca202fd86cb0da67a70d9e65bdcbc7662dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/ea9451936a17d4a1ca704e30d750ccc115bfdd37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_0e9297a31db59066fb9d4f4d5735135db4c5925d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/c988340541948202201859a781d797b9c6319771/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_e1c66e560515050666a24b99bd9ca7b5c5e04644.jar" />
+    </item>
+    <item
         is-multidex="true"
-        jar="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b292801249f428064a9fb7669ac7a33cfdb070">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e967fb04ae6309ee5d8fe39cbf41f66e096a4383/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/d073e94498a367353e99446096c4fa5c5ac1f9fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_f8fdc0f233348a9d5268faad1f92ba4043129da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/b6c342b92676bc5c9a37acf94cfacb4eb163aae9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_bf50031bc55b98857b9c334c1582b7cf1bc147fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/1bdae7eaaaa3f7d9efca975b047458a145a78a5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_d9e30a68743f0d0f270e77e71827027ccd8f3d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/817a95f56f8f1c7e2c3f2bc276d07a3c3d7d558a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_894405cd0ad819696a6f3735534c2c6bb8953a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/16ec0f4ad8475f0a43b4a17aa24db1fb8a458b1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_d5f216216da81a5fc81afef4f41f13f258ca570e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/d9138b1e597783e44a14f2531294f191fe5404bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_0370f8b66e0f6a205396fbead344e1df76b3d927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/a14af7600ac50a6af161d700e6b865c1e1a4ecff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_1c925227db83302d9a42f17a2217cc89d79642f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_75b141d7febe5847898f75d7429a64e254a79710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/77fb198063fc60571df0e0a466d3c24b4ba2f42b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_ddb67f8fe21dc2d10278bb260d42488df7c5094a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/99de5734f99639dcc4b02b1bdbb2cf74b6215876/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_c8c5de0acb39764a3056585e57cb4af6b191467b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/a1e5f7ff26d46f714e4353af937ceec1b663e74e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_9b5c877fac3cf0a77807bd950d5311386623e65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/26ca1f556c1ccbc1d5e05dc54c48f634db3482d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_31cc58da38336316ccc1cf437e849af2f578b28e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/b0777a14f737257800a8b2fd6d2cae63612569d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_7cd1b081be565d4df1cca1875b48d7d60ed4a307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/cdf8b311db80ff1be4c45ba2b96af1e5ba4849a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_db21eec079a0d7a4e861697271b54783e6f84a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/okio-1.11.0_fdaebfde840d6435b1a79be6cc6e5fcf56c297bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_318bd33fe1cb892fe6f3aa574940ed2a469e089e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/c068dc59ffddbe1a7a83c98b10e982e3f5fd7934/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_414102ff09df117c4cac4af241dff6c51e81db45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/e8ce726fdf3744982262ad2dba6ca377d08ea9bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_b27d245363120db8645d5bed38ef9fa97596ce76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/eecd1a5a8eef6249a9b23405c7b4f878ccef9fec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_5a8ed880ff3c814aa816f2f4d65b108fc4a0982b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f84ac1881af9578e4b172d6a34624892763edd1c\classes.dex" />
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d644febb58f1d782655e5b1dba7a0ca4b2b3ed75/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/antoine/.android/build-cache/a68690b7dccca42b04a4ec1054d548f764d5ae5c/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
-        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_a26f8fdd60c132685f4659f8a05e2c717be87efe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="37d60ea5380abb955954fbc80598727ac292debf">
-        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e6f7bb9e344234eab7d92420bb26ab702e3b2572\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
-        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.5.0_dc7d223f26008cc18ba799f4ddaa697b0b148931\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\antoine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.5.0\58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa\okhttp-urlconnection-3.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="58d6a73f1dfc11010f2b5e8b53366f0adfffa6aa">
-        <dex dex="C:\Users\antoine\Desktop\prog\android\pictionis\clea\PictIonis\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.5.0_9a7a68d0f5e11f2c2a8f5bda9eee80864e7b47af\classes.dex" />
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/antoine/Bureau/École/android/pictionis/git/PictIonis/app/build/intermediates/pre-dexed/debug/classes_ef51244f4dd5458d6a91f09e63d4a449e54d3ba7.jar" />
     </item>
 
 </items>
